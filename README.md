@@ -29,9 +29,9 @@ or
 ```
 python main.py https://www.exeample.com/
 ```
-if you wish to put URL give URL as command
+if you wish to put URL in command line.
 
-Take to account, that using -u option and giving URL ignores standard input.
+Take to account, that by giving URL in command line, standard input will be ignored.
 
 ## Results
 
