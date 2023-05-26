@@ -1,4 +1,4 @@
-# How does it works?
+# How does it work?
 
 It reads content of the page from given URL, removes all unreadable content and print 10 most frequent words (if more than two words have the same occurances - alphabetical sort is used).
 
